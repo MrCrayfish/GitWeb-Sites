@@ -1,0 +1,32 @@
+#banner
+image=https://i.imgur.com/tC7ZKpE.png
+text=&f&lOfficial Index
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=index.official
+item-label-2=Official Index
+item-icon-2=CONTACTS
+item-link-3=submit.official
+item-label-3=Submit Website
+item-icon-3=EDIT
+item-link-4=report.official
+item-label-4=Report
+item-icon-4=ERROR
+
+#paragraph
+text=Welcome to the &e&lOfficial Index&r. Here you will find a list of all the websites currently available on GitWeb. This list is manually generated so new websites may not show up straight away.
+padding=10
+
+#header
+text=&f&lAvailable Websites
+scale=2
+align=left
+padding=10
+
+#footer
+title=GitWeb
+sub-title=Copyright (c) MrCrayfish
+home-page=welcome.official
