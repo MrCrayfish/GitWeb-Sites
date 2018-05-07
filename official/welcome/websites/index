@@ -6,13 +6,13 @@ text=&f&lOfficial Index
 item-link-1=welcome.official
 item-label-1=Home
 item-icon-1=HOME
-item-link-2=index.official
+item-link-2=welcome.official/websites
 item-label-2=Official Index
 item-icon-2=CONTACTS
 item-link-3=submit.official
 item-label-3=Submit Website
 item-icon-3=EDIT
-item-link-4=report.official
+item-link-4=welcome.official/report
 item-label-4=Report
 item-icon-4=ERROR
 
