@@ -1,0 +1,34 @@
+#banner
+image=http://www.auroracrafters.com/playerdata/ocelot/smw.png
+text=&9&lSuper Mario World
+
+#navigation
+item-link-1=supermarioworld.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=supermarioworld.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/pages
+item-label-3=Pages
+item-icon-3=BOOK_OPEN
+
+#header
+scale=2
+text=&c&lWelcome
+align=center
+
+#paragraph
+text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
+
+#header
+scale=1
+text=&c&lContent
+
+#paragraph
+text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+
+#footer
+title=Super Mario World
+sub-title=Developed by Ocelot5836
+home-page=supermarioworld.craft
