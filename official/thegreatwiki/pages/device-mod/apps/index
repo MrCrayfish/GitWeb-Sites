@@ -13,11 +13,6 @@ item-link-3=thegreatwiki.official/pages
 item-label-3=Pages
 item-icon-3=CONTACTS
 
-#header
-scale=1
-align=center
-text=&l&oTHIS PAGE IS WORK IN PROGRESS! (So expect it to be ugly.)
-
 #banner
 image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/DeviceModBanner.png
 text=&6&lDevice Mod Apps
