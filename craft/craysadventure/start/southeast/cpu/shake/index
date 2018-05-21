@@ -16,7 +16,7 @@ text=&e[3: (Please Choose Preferred Option)
 text=&5Thy Choice
 
 #navigation
-item-link-1=craysadventure.craft/start/southeast/cpu/begin/452a
+item-link-1=craysadventure.craft/start/southeast/cpu/snake
 item-label-1=&bBegin Quiz
 item-link-2=craysadventure.craft/start/death/case1
 item-label-2=&bSwitch Account
