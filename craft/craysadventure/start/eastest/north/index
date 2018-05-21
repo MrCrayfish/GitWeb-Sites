@@ -1,0 +1,16 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray ventures in small arch in thy door, this direction thy can watch over fence, the room that is blocked ahead is pitfall.. more details are scarce be seen.
+
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast
+item-label-1=Venture Ways from Fence

@@ -1,0 +1,18 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=&eBORK BARK &oSNIFF &r&eBARK BORK BARK
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/south
+item-label-1=Thy Previous Goal
+item-link-2=craysadventure.craft/start/south/talk/attempt/attempt
+item-label-2=Speak words of engrish.. &bYe be fine, dog of young?&r

@@ -1,0 +1,19 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=At screen covered in dust you see red button of power one for pressing good on thee.
+
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/southeast
+item-label-1=Take Thy Stand
+item-link-2=craysadventure.craft/start/southeast/cpu/begin
+item-label-2=Push Thy Button

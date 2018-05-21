@@ -1,0 +1,19 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy sign reads well &eYE SHELL THY DIE OUI OUI, INIT DOWN THY CORRIDOR THY MAY ESCAPE IF IT WAS LATE.. SO GREAT&r.
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/southeastest
+item-label-1=Thy Previous Goal
+
+
+

@@ -1,0 +1,25 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray mumbles in thy door, this direction thy can freely jump, but room ahead is pitfall.. boiling magma should be hold but spikes of cool.. threaten to make ye cold.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/death
+item-label-1=Thy Jump
+
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast
+item-label-1=Venture Multiple Steps Back

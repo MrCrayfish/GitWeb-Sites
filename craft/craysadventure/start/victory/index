@@ -1,0 +1,19 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray well less drunken finds seldom alone exit of door next to carver where thy began, thy Cray has escaped of thy dungeon.
+
+
+#header
+text=&aThy Cray be safe, thy game is over!
+
+#navigation
+item-link-1=craysadventure.craft/start
+item-label-1=Be drunken, Again play..
+item-link-2=welcome.official
+item-label-2=Go back Home

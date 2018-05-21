@@ -1,0 +1,32 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray arrives within minutes of tunnel, directions thy quatre go near... finds obvious ventures of all ways! Thy floor of less sturdy smells sits ny the swell.
+
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/east/stomp
+item-label-1=Stomp of Mighty Floor
+item-link-2=craysadventure.craft/start/death
+item-label-2=Taste of Mighty Floor
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast
+item-label-1=Venture Northeria
+item-link-2=craysadventure.craft/start/eastest
+item-label-2=Venture Eastward
+item-link-3=craysadventure.craft/start/southeast
+item-label-3=Venture Southnar
+item-link-4=craysadventure.craft/start/return
+item-label-4=Venture Westwood

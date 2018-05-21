@@ -1,0 +1,26 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray in bright corner of thy dungeon, two obvious exits are seldom known &bEastward&r an ye return &bSouthar&r. Pig of might proudly sit on thy thrown in thy dungeon room.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/north/talk
+item-label-1=Attempt Thy Approach
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast
+item-label-1=Venture Eastward
+item-link-2=craysadventure.craft/start/return
+item-label-2=Venture Southar

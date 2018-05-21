@@ -1,0 +1,19 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy collar of dog reads thy "Young Greg", such beast of gain may ave fight of old time warrior, a friend to behad, best be wary of this tiny dog.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/south
+item-label-1=Thy Previous Goal
+item-link-2=craysadventure.craft/start/death
+item-label-2=Attempt companionship

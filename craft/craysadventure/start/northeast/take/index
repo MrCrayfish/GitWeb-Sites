@@ -1,0 +1,19 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=This was of true misfortune thy trinket burns of flesh danger speaks loudly bests be best.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast
+item-label-1=Drop Thy Trinket
+item-link-2=craysadventure.craft/start/death
+item-label-2=Continue Thy Grip

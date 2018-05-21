@@ -1,0 +1,17 @@
+#header
+text=&aAdventora de Creya
+scale=3
+
+#paragraph
+text=Thy Cray stumbles on cavern of ye old times, does thy wish for stupidy of old gain... or shell ye return to safety of thorns.
+
+
+#header
+text=&aThy Need Game be Starten?
+
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Return to Thy Home
+item-link-2=craysadventure.craft/start
+item-label-2=Roll Thy Dice

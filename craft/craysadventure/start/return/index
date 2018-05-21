@@ -1,0 +1,29 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray finds self in chamber of begining, westwood remains undercover of runs of rumble... Obvious ventures remain &bNortheria&r, &bEastward&r and &bSouthar&r! The ground is muddled of thy reflection in liquid.
+
+
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/return/reflection
+item-label-1=Look Reflection
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/north
+item-label-1=Venture Northeria
+item-link-2=craysadventure.craft/start/east
+item-label-2=Venture Eastward
+item-link-3=craysadventure.craft/start/south
+item-label-3=Venture Southnar

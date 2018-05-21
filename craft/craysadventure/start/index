@@ -1,0 +1,19 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray stumbles down caverns drunken, thy cave collapse behind, where westwood was now rumble runs... Obvious ventures are &bNortheria&r, &bEastward&r and &bSouthar&r! The ground hides nothing!
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/north
+item-label-1=Venture Northeria
+item-link-2=craysadventure.craft/start/east
+item-label-2=Venture Eastward
+item-link-3=craysadventure.craft/start/south
+item-label-3=Venture Southnar

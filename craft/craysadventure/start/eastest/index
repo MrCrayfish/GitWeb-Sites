@@ -1,0 +1,26 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray now before an exit sees a door of might full closed to &bEastward&r and &bNortheria&r be blocked in smaller ways. All other paths appear clear to thy eye.
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/eastest/north
+item-label-1=Look to Northeria fence
+
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/southeastest
+item-label-1=Venture Southar
+item-link-2=craysadventure.craft/start/east
+item-label-2=Venture Westwood

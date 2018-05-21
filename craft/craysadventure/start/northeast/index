@@ -1,0 +1,30 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray exists down hall of small with 3 obvious exits, one of which was the area of return... On the floor lies a trinket of old ages.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast/examine
+item-label-1=Smell Thy Trinket
+item-link-2=craysadventure.craft/start/northeast/take
+item-label-2=Take Thy Trinket
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/northeast/east
+item-label-1=Venture Eastward
+item-link-2=craysadventure.craft/start/east
+item-label-2=Venture Southar
+item-link-3=craysadventure.craft/start/north
+item-label-3=Venture Westwood

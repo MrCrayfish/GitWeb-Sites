@@ -1,0 +1,24 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=&e[1: Hello... MrCrayfish
+#paragraph
+text=&e[2: Would you like to..
+#paragraph
+text=&e[3: (Please Choose Preferred Option)
+
+#header
+text=&5Thy Choice
+
+#navigation
+item-link-1=craysadventure.craft/start/southeast/cpu/begin/452a
+item-label-1=&bBegin Quiz
+item-link-2=craysadventure.craft/start/death/case1
+item-label-2=&bSwitch Account
+item-link-3=craysadventure.craft/start/death/case1
+item-label-3=&bCancel Action

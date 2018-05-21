@@ -1,0 +1,19 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy soul of Cray views down muddled areas to see reflection of so and so, thy eyes of blue with skin of red... Sees crown of gold on top of head! Thy curse on water may be, best loom away for dismay.
+
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/return
+item-label-1=Thy Previous Goal
+item-link-2=craysadventure.craft/start/death
+item-label-2=Continue Stare

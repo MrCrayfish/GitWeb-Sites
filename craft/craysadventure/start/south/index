@@ -1,0 +1,28 @@
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray finds self in a corner of thy dungeon, two obvious exits self thy are known only &bNortheria&r but &bEastward&r to prine. In thy dark corner small dog rests.
+
+
+#header
+text=&aThy Tasks
+
+
+#navigation
+item-link-1=craysadventure.craft/start/south/talk
+item-label-1=Attempt Thy Converse
+item-link-2=craysadventure.craft/start/south/check
+item-label-2=Check uth Collar
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/return
+item-label-1=Venture Northeria
+item-link-2=craysadventure.craft/start/southeast
+item-label-2=Venture Eastward

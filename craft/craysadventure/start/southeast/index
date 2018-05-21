@@ -1,0 +1,28 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray in dungeon room of current exist with pastures of carpeted floor.. the doors of arch must be interiorly protected some etchings exist, most obvious exits continue to functions a computer and seat lie in transaction.
+
+
+#header
+text=&aThy Tasks
+
+#navigation
+item-link-1=craysadventure.craft/start/southeast/cpu
+item-label-1=Take Thy Seat
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/east
+item-label-1=Venture Northeria
+item-link-2=craysadventure.craft/start/southeastest
+item-label-2=Venture Eastward
+item-link-3=craysadventure.craft/start/south
+item-label-3=Venture Westwood

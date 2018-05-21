@@ -1,0 +1,17 @@
+
+
+#header
+text=&aAdventora de Creya
+scale=1
+
+
+#paragraph
+text=Thy Cray takes stand in dungeon room, all exits remain as closed but computer slides into floor, as to &bSouthar&r exit opens with thy light at end of tunnel shell ye be saved at last!
+
+
+#header
+text=&aThy Ventures
+
+#navigation
+item-link-1=craysadventure.craft/start/victory
+item-label-1=Venture Southar
