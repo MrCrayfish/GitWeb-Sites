@@ -1,5 +1,5 @@
 #banner
-image=http://www.auroracrafters.com/playerdata/ocelot/smw.png
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/main-banner.png
 text=&9&lSuper Mario World
 
 #navigation
@@ -53,7 +53,7 @@ align=left
 
 #paragraph
 text=My name is & &eOcelot5836&r, and I have been programming for roughly four years now. I would consider myself an intermediate coder at &cJava&r since I know and understand the basics of the language. There are many above me who could probably think twenty different ways to do what I have done here, but that doesn't mean I can't do what I want to accomplish. I always try to keep on learning from people who are better at programming (like &4MrCrayfish&r) than I since that allows me to learn and grow as not only a programmer, but a person. I hope any person who has such a dream as to program can take the chance to become the very best programmer the world has ever seen.
-image=http://www.auroracrafters.com/playerdata/ocelot/Ocelot5836_Head_Toon.png
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/ocelot5836.png
 
 #header
 scale=1
@@ -62,6 +62,7 @@ align=left
 
 #paragraph
 text=No Information Provided
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/mrcrayfish.png
 
 #footer
 title=Super Mario World
