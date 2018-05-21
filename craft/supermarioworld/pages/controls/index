@@ -1,0 +1,48 @@
+#banner
+image=http://www.auroracrafters.com/playerdata/ocelot/smw.png
+text=&9&lSuper Mario World
+
+#navigation
+item-link-1=supermarioworld.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=supermarioworld.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/pages
+item-label-3=Pages
+item-icon-3=BOOK_OPEN
+
+#header
+scale=3
+text=&c&lControls
+align=center
+
+#header
+scale=1
+text=&4&lMovement
+align=left
+
+#paragraph
+text=&cW&r - Look Up\n&cS&r - Duck\n&cA&r - Move Left\n&cD&r - Move Right\n&cSPACE&r - Jump\n&cE&r - Run/Hold Item
+
+#header
+scale=1
+text=&4Debug
+align=left
+
+#paragraph
+text=&cT&r - Reset Level
+
+#header
+scale=1
+text=&4Menu
+align=left
+
+#paragraph
+text=&cUP&r - Move selection up\n&cDOWN&r - Move selection down\n&cENTER&r - Select State
+
+#footer
+title=Super Mario World
+sub-title=Developed by Ocelot5836
+home-page=supermarioworld.craft

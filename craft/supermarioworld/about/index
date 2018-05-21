@@ -1,0 +1,69 @@
+#banner
+image=http://www.auroracrafters.com/playerdata/ocelot/smw.png
+text=&9&lSuper Mario World
+
+#navigation
+item-link-1=supermarioworld.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=supermarioworld.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/pages
+item-label-3=Pages
+item-icon-3=BOOK_OPEN
+
+#header
+scale=2
+text=&c&lAbout
+align=center
+
+#paragraph
+text=The &9Super Mario World Application's&r coding concept came from an old project of mine called the &6"Advanced Tech Mod"&r. This project made me think more about having a game inside of a GUI in &aMinecraft&r. The project may have been abandoned, but it sprouted a whole new way of thinking about &aMinecraft&r for me.
+
+#header
+scale=2
+text=&c&lCreators
+align=center
+
+#header
+scale=1
+text=&4&lOcelot5836
+align=left
+
+#paragraph
+text=Ocelot5836 is mostly known for starting amazing projects and showing them off, only to let them die. His most recent project, &4Super Mario World&r, so far is still in development.
+
+#header
+scale=1
+text=&4&lMrCrayfish
+align=left
+
+#paragraph
+text=MrCrayfish or Creyfush is known best for being the creator of both &6MrCrayfish's Furniture Mod&r and &cMrCrayfish's Device Mod&r. He is an amazing modder who created a massive community surrounding all of his mods. He helped with the development of the &4Super Mario World&r Application.
+#header
+scale=2
+text=&c&lBiography
+align=center
+
+#header
+scale=1
+text=&4&lOcelot5836
+align=left
+
+#paragraph
+text=My name is & &eOcelot5836&r, and I have been programming for roughly four years now. I would consider myself an intermediate coder at &cJava&r since I know and understand the basics of the language. There are many above me who could probably think twenty different ways to do what I have done here, but that doesn't mean I can't do what I want to accomplish. I always try to keep on learning from people who are better at programming (like &4MrCrayfish&r) than I since that allows me to learn and grow as not only a programmer, but a person. I hope any person who has such a dream as to program can take the chance to become the very best programmer the world has ever seen.
+image=http://www.auroracrafters.com/playerdata/ocelot/Ocelot5836_Head_Toon.png
+
+#header
+scale=1
+text=&4&lMrCrayfish
+align=left
+
+#paragraph
+text=No Information Provided
+
+#footer
+title=Super Mario World
+sub-title=Developed by Ocelot5836
+home-page=supermarioworld.craft
