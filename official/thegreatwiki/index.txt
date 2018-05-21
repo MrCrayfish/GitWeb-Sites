@@ -1,0 +1,42 @@
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lThe Great Wiki
+
+
+#navigation
+item-link-1=thegreatwiki.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=thegreatwiki.official/about
+item-label-2=About
+item-icon-2=COMMUNITY
+item-link-3=thegreatwiki.official/pages
+item-label-3=Pages
+item-icon-3=CONTACTS
+
+#header
+scale=2
+text=&c&lWelcome!
+align=center
+
+#paragraph
+text=Welcome to "The Great Wiki"! This wiki can range from anything Minecraft to the Device Mod and apps!
+
+#header
+scale=1
+text=&c&lGetting Started
+
+#paragraph
+text=To get started at looking at wiki page, head over to &9thegreatwiki.official/pages&r or click the Index button on the navigation bar!
+
+#header
+scale=1
+text=&c&lSupporting "The Great Wiki"
+
+#paragraph
+text=If you would like to support the development of "The Great Wiki", please head over to &c&lhttps://github.com/JacksonPlayz/JacksonsThings/new/master/gitweb/TheGreatWiki&r on your &lREAL&r internet browser, not this one. Follow the instructions on the bottom of the screen to help contribute to "The Great Wiki"!
+
+#footer
+title=The Great Wiki
+sub-title=Produced by JacksonPlayz and MinecraftDoodler
+home-page=thegreatwiki.official

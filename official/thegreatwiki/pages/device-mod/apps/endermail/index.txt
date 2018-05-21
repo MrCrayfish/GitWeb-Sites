@@ -1,0 +1,99 @@
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lThe Great Wiki
+
+#navigation
+item-link-1=thegreatwiki.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=thegreatwiki.official/about
+item-label-2=About
+item-icon-2=COMMUNITY
+item-link-3=thegreatwiki.official/pages
+item-label-3=Pages
+item-icon-3=CONTACTS
+
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/EndermailBanner.png
+text=Ender Mail
+
+#paragraph
+text=Ender Mail is a cool little application. It allows you to send messages to other players on the server.
+
+#download
+file-app=cdm.ender_mail
+file-data=
+file-name=Ender Mail
+text=This doesn't work yet!
+
+#header
+text=Setting Up Your Account
+scale=2
+align=left
+
+#paragraph
+text=When you first open up Ender Mail, it'll ask you to register. So what you do, is you just click the little button that says "Register" on it. After you done that it'll ask you to choose your email. Here you just enter "FooBar", (if you want your email address to be FooBar@endermail.com). Once you've decided what email address you want to claim, you just click the button that says "Register" on it (not to be confused with the previous Register button). 
+image=https://i.imgur.com/Ek3hCap.png
+
+#header
+text=Navigating The Main menu
+scale=2
+align=left
+
+#header
+text=The Toolbar
+scale=1
+align=left
+
+#paragraph
+text=In the top left-hand corner, you'll see some buttons. These buttons allow you to interact with the Ender Mail client.
+
+#paragraph
+text=The first (the one to the left) button you can see is the "View" button. This button allows you to view the currently selected email.
+image=https://i.imgur.com/SxzKlqF.png
+
+#paragraph
+text=The second button you'll be able to find is the "New Email" button. This button is pretty self-explanatory, so let's move on to the next button.
+image=https://i.imgur.com/zIlKOA8.png
+
+#paragraph
+text=The next button is the "Reply" button. By pressing this little button, you will be able to reply to the currently selected email.
+image=https://i.imgur.com/5uC3WSI.png
+
+#paragraph
+text=The fourth button is the "Trash Email" button. This button is a little bit like a recycle bin, as it throws out the emails you have selected while clicking this button.
+image=https://i.imgur.com/UN3BHTN.png
+
+#paragraph
+text=The second last button is the "Refresh Inbox" button. This button allows you to refresh your inbox, without re-opening the Ender Mail client. You can also spam this button, to be updated on new emails instantaneously as new emails come in.
+image=https://i.imgur.com/FL5HnQD.png
+
+#paragraph
+text=The final button in the toolbar appears to be a wrench. We currently don't know what this mysterious button does. We can only assume that it is some kind of weapon. It may be used to slay monsters at night or to put nails in your wall. Just don't do that while your Mom is home, she might get mad at you for putting nails in the wall.
+image=https://i.imgur.com/hKmjjHu.png
+
+#header
+text=The Inbox
+scale=1
+align=left
+
+#paragraph
+text=On the left side of your screen, you'll see a box. This box shows the emails currently in your inbox. I'll most likely be empty when you first register. If someone sends you an email, this is where it goes...
+
+#header
+text=The Preview Screen
+scale=1
+align=left
+
+#paragraph
+text=On the right side of the screen, there is a giant preview box. This preview box will show you the content of the email you have selected in the inbox panel.
+
+#header
+text=This page was contributed by OstenTV.
+scale=1
+align=center
+
+#footer
+title=The Great Wiki
+sub-title=Produced by JacksonPlayz and MinecraftDoodler
+home-page=thegreatwiki.official

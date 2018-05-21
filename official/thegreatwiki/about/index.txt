@@ -1,0 +1,60 @@
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lThe Great Wiki
+
+#navigation
+item-link-1=thegreatwiki.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=thegreatwiki.official/about
+item-label-2=About
+item-icon-2=COMMUNITY
+item-link-3=thegreatwiki.official/pages
+item-label-3=Pages
+item-icon-3=CONTACTS
+
+#header
+scale=3
+text=&c&lAbout
+align=center
+
+#paragraph
+text=The Great Wiki is a wiki on GitWeb that offers many sites such as info on Minecraft, MrCrayfish's Device Mod, GitWeb, and much more. The Great Wiki was created by MinecraftDoodler and JacksonPlayzYT.
+
+#header
+scale=2
+text=&c&lCreators
+align=center
+
+#header
+scale=1
+text=&c&lJacksonPlayz
+align=left
+
+#paragraph
+text=Jackson is one the creators of The Cray Pack, an official modpack for the MrCrayfish Paid-Access server. Jackson is also a graphics designer using Photoshop and has made a wide variety of graphics, mainly logos / text.
+image=https://crafatar.com/renders/head/68c08594e7cd43fbbdf9240147ee26cf?size=16
+
+#divider
+size=10
+
+#header
+scale=1
+text=&c&lMinecraftDoodler
+align=left
+
+#paragraph
+text=MinecraftDoodler (or MCD) is most well known for being the original creator of &aGitWeb&r, but he is also behind some of the texturing in MrCrayfish's Device Mod! He also works on both CuBG and the MrCrayfish sponsor servers!
+image=https://crafatar.com/renders/head/b61e1172e4f0450a9f9858ec91bc41dc
+
+#header
+scale=2
+text=&c&lContributors
+
+#paragraph
+text=&6&lOstenTV&r - Created the Endermail page.
+
+#footer
+title=The Great Wiki
+sub-title=Produced by JacksonPlayz and MinecraftDoodler
+home-page=thegreatwiki.official
