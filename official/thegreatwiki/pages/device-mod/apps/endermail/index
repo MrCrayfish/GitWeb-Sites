@@ -32,11 +32,11 @@ scale=2
 align=left
 
 #paragraph
-text=When you first open up Ender Mail, it'll ask you to register. So what you do, is you just click the little button that says "Register" on it. After you done that it'll ask you to choose your email. Here you just enter "FooBar", (if you want your email address to be FooBar@endermail.com). Once you've decided what email address you want to claim, you just click the button that says "Register" on it (not to be confused with the previous Register button). 
+text=When you first open up Ender Mail, it'll ask you to register. So what you do is, you click the little button that says "Register" on it. After you done that, it'll ask you to choose your email. Here you just enter "FooBar", (if you want your email address to be FooBar@endermail.com). Once you've decided what email address you want to claim, you just click the button that says "Register" on it (not to be confused with the previous Register button). 
 image=https://i.imgur.com/Ek3hCap.png
 
 #header
-text=Navigating The Main menu
+text=Navigating The Main Menu
 scale=2
 align=left
 
@@ -87,6 +87,85 @@ align=left
 
 #paragraph
 text=On the right side of the screen, there is a giant preview box. This preview box will show you the content of the email you have selected in the inbox panel.
+
+#header
+text=Navigating The "View" Menu
+scale=2
+align=left
+
+#header
+text=Opening This Menu
+scale=1
+align=left
+
+#paragraph
+text=Start by selecting an email in your inbox, then click the "View" button.
+
+#header
+text=Buttons
+scale=1
+align=left
+
+#paragraph
+text=All the cool buttons are located on the top of this menu.
+
+#paragraph
+text=The first button is the "Cancel" button. If you press this one, it'll take you right back to the main menu.
+image=https://i.imgur.com/QVs2yH1.png
+
+#paragraph
+text=On the right side is the "attachment" button. This is where attachments appear if one was sent with the Email.
+image=https://i.imgur.com/cyy79gQ.png
+
+#header
+text=Text Content
+scale=1
+align=left
+
+#paragraph
+text=In the row directly below the toolbar is where you can find the "Subject" and "Sender". For example, if "FooBar@endermail.com" sent you an email, their email along with the subject would be displayed here. 
+
+#paragraph
+text=Next we have the huge box below the other section. This box contains the message that you received,
+
+#header
+text=Navigating The "New Email" Menu
+scale=2
+align=left
+
+#header
+text=Opening This Menu
+scale=1
+align=left
+
+#paragraph
+text=To get to this menu, press the "New email" button in the toolbar. Once you're here, you'll be able to send emails to other players.
+
+#header
+text=Inputs
+scale=1
+align=left
+
+#paragraph
+text=The first text field is where you enter the recipient's email address.
+
+#paragraph
+text=The next text field is where you enter the subject of your email. This could for example be "FooBar", if your mailing about FooBars.
+
+#paragraph
+text=Next we have the "Message" field. This is where you enter your message.
+
+#paragraph
+text=Last but not least is the "Attach File" button. This allows you to send files along with your message. When you click this button, a wild dialog box appears. With this box you can select a file to attach.
+
+#header
+text=Buttons
+scale=1
+align=left
+
+#paragraph
+text=On the left side of your screen there are 2 buttons. These buttons allow you to eiter, send your email, or cancel it.
+
 
 #header
 text=This page was contributed by OstenTV.
