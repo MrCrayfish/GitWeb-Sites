@@ -1,0 +1,34 @@
+#banner
+image=http://cookdiary.net/wp-content/uploads/images/Cheese_Crackers_2019.jpg
+text=&eCheese &rAnd &6Crackers
+
+#navigation
+item-link-1=cheeseandcrackers.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=cheeseandcrackers.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/recipe
+item-label-3=Recipe
+item-icon-3=BOOK_OPEN
+
+#header
+scale=2
+text=&c&lWelcome
+align=center
+
+#paragraph
+text=This is the cheese and crackers site! by GwnQuentin
+
+#header
+scale=1
+text=&c&lContent
+
+#paragraph
+text=Here you can &l&nALMOST %r all information about cheese and crackers!
+
+#footer
+title=CheeseAndCrackers
+sub-title=Created by GwnQuentin
+home-page=cheeseandcrackers.craft
