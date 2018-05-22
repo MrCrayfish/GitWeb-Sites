@@ -1,0 +1,77 @@
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lThe Great Wiki
+
+#navigation
+item-link-1=thegreatwiki.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=thegreatwiki.official/about
+item-label-2=About
+item-icon-2=COMMUNITY
+item-link-3=thegreatwiki.official/pages
+item-label-3=Pages
+item-icon-3=CONTACTS
+
+#banner
+image=https://ibb.co/kdiMo8
+text=Ender Mail
+
+#paragraph
+text=GitWeb is a web browser that browse a Github based web made by MrCrayfish and his fans
+
+#download
+file-app=cdm.github.desk
+file-data=
+file-name=GitWeb
+text=This doesn't work yet!
+
+#header
+text=Navigating GitWeb
+scale=2
+align=left
+
+#header
+text=Addressbar
+scale=1
+align=left
+
+#paragraph
+text=The addressbar is easy to use. you type in the site address and press enter to go to the site you want.
+image=https://i.imgur.com/t0cO2ce.png?1
+
+#header
+text=Buttons
+scale=1
+align=left
+
+#paragraph
+text=The first button is the refresh button. the button refreshes the page.
+image=https://imgur.com/a/ciZ5fcX
+
+#paragraph
+text=The second button is the home button. this button take you to the welcome.official site.
+image=https://imgur.com/a/Q2yNJr1
+
+#paragraph
+text=The third button is the settings button. this button open a small blank window.
+image=https://imgur.com/a/yZjr9n2
+
+#header
+text=The main site
+scale=1
+align=left
+
+#paragraph
+the main site ( welcome.official ) is a site were you can find avalible sites, report sites and sumbit your sites.
+image=https://imgur.com/a/xWysao8
+
+#header
+text=This page was contributed by GwnQuentin
+scale=1
+align=center
+
+#footer
+title=The Great Wiki
+sub-title=Produced by JacksonPlayz and MinecraftDoodler
+home-page=thegreatwiki.official
