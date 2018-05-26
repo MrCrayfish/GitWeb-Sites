@@ -1,0 +1,86 @@
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lThe Great Wiki
+
+#navigation
+item-link-1=thegreatwiki.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=thegreatwiki.official/about
+item-label-2=About
+item-icon-2=COMMUNITY
+item-link-3=thegreatwiki.official/pages
+item-label-3=Pages
+item-icon-3=CONTACTS
+
+#banner
+image=https://eprism.files.wordpress.com/2015/06/internet-banner.jpg
+text=GitWeb
+
+#paragraph
+text=GitWeb is a web browser that browse a Github based web made by MrCrayfish and his fans
+
+#download
+file-app=cdm.gitweb
+file-data=
+file-name=GitWeb
+text=This doesn't work yet!
+
+#header
+text=Navigating
+scale=2
+align=left
+
+#paragraph
+text=Navigating is realy easy by using the buttons and the address bar on the top
+
+
+#header
+text=refresh button
+scale=1
+align=left
+
+#paragraph
+text=the refresh button refreshes the site you are on
+
+#header
+text=Home button
+scale=1
+align=left
+
+#paragraph
+text=The home button take you back to the site welcome.official ( the home page )
+
+#header
+text=Settings button
+scale=1
+align=left
+
+#paragraph
+text=The settings button opens a blank window...
+
+#header
+text=The Address bar
+scale=1
+align=left
+
+#paragraph
+text=With the address bar can you navigate to sites like welcome.official or thegreatwiki.offical
+
+#header
+text=Websites
+scale=2
+align=left
+
+#paragraph
+text=Websites on gitweb are coded in github and sites can be made by everyone
+
+#header
+text=This page was contributed by GwnQuentin.
+scale=1
+align=center
+
+#footer
+title=The Great Wiki
+sub-title=Produced by JacksonPlayz and MinecraftDoodler
+home-page=thegreatwiki.official
