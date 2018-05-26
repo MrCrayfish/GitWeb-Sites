@@ -17,8 +17,8 @@ text=&5Thy Choice
 
 #navigation
 item-link-1=craysadventure.craft/start/southeast/cpu/skip
-item-label-1=&bCheese
-item-link-2=craysadventure.craft/start/death/case1
-item-label-2=&bCrackers
-item-link-3=craysadventure.craft/start/death/case1
+item-label-1=&bCrackers
+item-link-2=craysadventure.craft/start/death/case
+item-label-2=&bCheese
+item-link-3=craysadventure.craft/start/death/case
 item-label-3=&bRelish

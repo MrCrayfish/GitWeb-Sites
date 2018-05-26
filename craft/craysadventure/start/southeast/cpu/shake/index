@@ -18,7 +18,7 @@ text=&5Thy Choice
 #navigation
 item-link-1=craysadventure.craft/start/southeast/cpu/snake
 item-label-1=&bBegin Quiz
-item-link-2=craysadventure.craft/start/death/case1
+item-link-2=craysadventure.craft/start/death/case
 item-label-2=&bSwitch Account
-item-link-3=craysadventure.craft/start/death/case1
+item-link-3=craysadventure.craft/start/death/case
 item-label-3=&bCancel Action
