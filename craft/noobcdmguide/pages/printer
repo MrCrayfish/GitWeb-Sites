@@ -1,0 +1,46 @@
+
+#banner
+image=https://vignette.wikia.nocookie.net/minecraft-mob/images/0/0b/Dirt_texture.png/revision/latest?cb=20150922070823
+text=A Noob's Guide To The Device Mod
+
+#divider
+size=3
+color=-14783111
+
+#navigation
+color=-14783111
+item-link-1=noobcdmguide.craft
+item-label-1=Home
+item-link-2=noobcdmguide.craft/pages/laptop/
+item-label-2=Laptop
+item-link-3=noobcdmguide.craft/pages/printer
+item-label-3=Printer
+item-link-4=noobcdmguide.craft/pages/router
+item-label-4=Router
+item-link-5=noobcdmguide.craft/pages/peripherals
+item-label-5=Peripherals
+item-link-6=noobcdmguide.craft/pages/apps
+item-label-6=Applications
+item-link-7=noobcdmguide.craft/pages/addons
+item-label-7=Addons
+
+#divider
+size=3
+color=-14783111
+
+#header
+text=Temporarily Unavailable
+
+#divider
+size=3
+color=-14783111
+
+#paragraph
+text=A Noob's Guide To The Device Mod is powered by the community. Unfortunately this page is unfinished. If you would like to help contribute, please send a descripton and image to noobcdmguide@gmail.com
+image=http://www.clker.com/cliparts/H/Z/0/R/f/S/warning-icon-hi.png
+
+#footer
+title=A Noob's Guide To The Device Mod
+sub-title=Copyright (c) CyberKing18.
+home-page=noobcdmguide.craft
+color=-14783111
