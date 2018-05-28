@@ -1,0 +1,63 @@
+
+#banner
+image=https://vignette.wikia.nocookie.net/minecraft-mob/images/0/0b/Dirt_texture.png/revision/latest?cb=20150922070823
+text=A Noob's Guide To The Device Mod
+
+#divider
+size=3
+color=-14783111
+
+#navigation
+color=-14783111
+item-link-1=noobcdmguide.craft
+item-label-1=Home
+item-link-2=noobcdmguide.craft/pages/laptop/
+item-label-2=Laptop
+item-link-3=noobcdmguide.craft/pages/printer
+item-label-3=Printer
+item-link-4=noobcdmguide.craft/pages/router
+item-label-4=Router
+item-link-5=noobcdmguide.craft/pages/peripherals
+item-label-5=Peripherals
+item-link-6=noobcdmguide.craft/pages/apps
+item-label-6=Applications
+item-link-7=noobcdmguide.craft/pages/addons
+item-label-7=Addons
+
+#divider
+size=3
+color=-14783111
+
+#divider
+size=3
+color=-14783111
+
+#navigation
+color=-14783111
+item-link-1=noobcdmguide.craft/pages/laptop/morelaptop/desktop
+item-label-1=Desktop
+item-link-2=noobcdmguide.craft/pages/laptop/morelaptop/file-browser
+item-label-2=File Browser
+item-link-3=noobcdmguide.craft/pages/laptop/morelaptop/settings
+item-label-3=Settings
+item-link-4=noobcdmguide.craft/pages/laptop/morelaptop/app-market
+item-label-4=Application Market
+item-link-5=noobcdmguide.craft/pages/laptop/morelaptop/wifi/
+item-label-5=Wi-Fi
+
+#header
+text=Laptop
+
+#divider
+size=3
+color=-14783111
+
+#paragraph
+text=The Laptop is what I would call the 'heart' of the device mod. As all the other devices are designed to be used with the Laptop. In this tutorial I will teach you how to: Open a Laptop, use the files application, connect to Wi-Fi, change your desktop background, and the basics of the store. to get started, go to the navigation menu and click on the item you need help with!
+image=https://media.forgecdn.net/avatars/137/544/636515673434585131.png
+
+#footer
+title=A Noob's Guide To The Device Mod
+sub-title=Copyright (c) CyberKing18.
+home-page=noobcdmguide.craft
+color=-14783111
