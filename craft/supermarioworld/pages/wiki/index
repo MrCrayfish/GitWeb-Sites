@@ -26,7 +26,7 @@ scale=2
 align=CENTER
 
 #paragraph
-text=&eEntities&r in the game are essentially objects ot anything that is not locked onto a grid. Unlike tiles, &eentities&r have the capability to move at whatever speed they need to and with as much precision possible. They are used for a variety of things such as utility or even things like the &4Player&r\n\nLink - &bsupermarioworld.craft/pages/wiki/entity
+text=&eEntities&r in the game are essentially objects ot anything that is not locked onto a grid. Unlike tiles, &eentities&r have the capability to move at whatever speed they need to and with as much precision possible. They are used for a variety of things such as utility or even things like the &6Player&r\n\nLink - &bsupermarioworld.craft/pages/wiki/entity
 
 #header
 text=&c&lTiles
