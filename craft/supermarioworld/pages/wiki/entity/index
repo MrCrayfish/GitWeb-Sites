@@ -16,6 +16,7 @@ item-icon-3=BOOK_OPEN
 #header
 scale=2
 text=&c&lEntity
+align=center
 
 #paragraph
 text=&4&lAll Entities are listed below:\n\n&c&lMisc:&r\nPlayer - &bsupermarioworld.craft/pages/wiki/entity/player&r\nFruit - &bsupermarioworld.craft/pages/wiki/entity/fruit&r\n&c&lEnemies:&r\nBowser - &bNot yet available&r\nGaloomba - &bNot yet available&r\nKoopa - &bNot yet available&r\nRex - &bNot yet available&r\n&c&lItems:&r\nKoopa Shell - &bNot yet available&r\nP-Switch - &bNot yet available&r

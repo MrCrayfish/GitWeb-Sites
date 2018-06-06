@@ -16,6 +16,7 @@ item-icon-3=BOOK_OPEN
 #header
 scale=2
 text=&c&lWiki
+align=center
 
 #paragraph
 text=Welcome to the &4Super Mario World Wiki!&r Here you can find information about almost every aspect of the game! Below are listed a few categories that the &ewiki&r is split up into. I hope you enjoyed the game so far and enjoy it even more after reading this.
@@ -23,6 +24,7 @@ text=Welcome to the &4Super Mario World Wiki!&r Here you can find information ab
 #header
 text=&c&lEntities
 scale=2
+align=center
 
 #paragraph
 text=&eEntities&r in the game are essentially objects ot anything that is not locked onto a grid. Unlike tiles, &eentities&r have the capability to move at whatever speed they need to and with as much precision possible. They are used for a variety of things such as utility or even things like the &4Player&r\n\nLink - &bsupermarioworld.craft/pages/wiki/entity

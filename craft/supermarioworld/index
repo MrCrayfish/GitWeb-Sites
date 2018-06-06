@@ -24,6 +24,7 @@ text=The Super Mario World website is a site that talks about the Super Mario Wo
 #header
 scale=1
 text=&c&lContent
+align=center
 
 #paragraph
 text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
