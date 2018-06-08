@@ -1,0 +1,28 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/main-banner.png
+text=&9&lSuper Mario World
+
+#navigation
+item-link-1=supermarioworld.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=supermarioworld.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/pages
+item-label-3=Pages
+item-icon-3=BOOK_OPEN
+
+#header
+scale=2
+text=&c&lBlue Coin
+align=center
+
+#paragraph
+text=&4&lDescription:&r\nThe &eBlue Coin&r is almost the exact same as the normal coin. The only difference between the blue coin and the normal coin is the color and the fact that it &4will not&r turn into a brick when a &9P-Switch&r is activated.\n\n&4&lFound At:&r Multiple Levels\n&4&lIs Passable:&r &atrue&r\n&r&4&lOn Hit:&r The &eCoin&r counter increases by 1
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/coin_blue.png
+
+#footer
+title=Super Mario World
+sub-title=Developed by Ocelot5836
+home-page=supermarioworld.craft
