@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lBlue Coin
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nThe &eBlue Coin&r is almost the exact same as the normal coin. The only difference between the blue coin and the normal coin is the color and the fact that it &4will not&r turn into a brick when a &9P-Switch&r is activated.\n\n&4&lFound At:&r Multiple Levels\n&4&lIs Passable:&r &atrue&r\n&r&4&lOn Hit:&r The &eCoin&r counter increases by 1
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/coin_blue.png
 
 #footer
 title=Super Mario World

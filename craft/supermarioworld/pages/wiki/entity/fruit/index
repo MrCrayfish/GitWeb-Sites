@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lFruit
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nThe &efruit&r is one of the more simple &eentities&r in the game. It is simply used as a food source for &aYoshi&r that makes him produce &6items&r. It has a simple animation and really no physics involved.
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/fruit.png
 
 #footer
 title=Super Mario World

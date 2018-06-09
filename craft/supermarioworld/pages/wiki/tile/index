@@ -1,0 +1,27 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/main-banner.png
+text=&9&lSuper Mario World
+
+#navigation
+item-link-1=supermarioworld.craft
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=supermarioworld.craft/about
+item-label-2=About
+item-icon-2=USER
+item-link-3=supermarioworld.craft/pages
+item-label-3=Pages
+item-icon-3=BOOK_OPEN
+
+#header
+scale=2
+text=&c&lTile
+align=center
+
+#paragraph
+text=&4&lAll Tiles are listed below:&r\n\nAir/Dirt - &bsupermarioworld.craft/pages/wiki/tile/utility&r\nYoshi Grass - &bsupermarioworld.craft/pages/wiki/tile/yoshi_grass&r\nYoshi Dirt - &bsupermarioworld.craft/pages/wiki/tile/yoshi_dirt&r\nInfo Box - &bsupermarioworld.craft/pages/wiki/tile/info_box&r\nCoin - &bsupermarioworld.craft/pages/wiki/tile/coin&r\nGrass - &bsupermarioworld.craft/pages/wiki/tile/grass&r\nGrass Wall - &bsupermarioworld.craft/pages/wiki/tile/grass_wall&r\n? Block - &bsupermarioworld.craft/pages/wiki/tile/question_block&r\nBlue Coin - &bsupermarioworld.craft/pages/wiki/tile/coin_blue
+
+#footer
+title=Super Mario World
+sub-title=Developed by Ocelot5836
+home-page=supermarioworld.craft

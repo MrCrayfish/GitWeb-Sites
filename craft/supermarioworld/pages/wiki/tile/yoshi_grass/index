@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lYoshi Grass
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nYoshi dirt is a special type of ground tile that is only found in Yoshi's House. It is similar in appearance to normal ground except that it has a white border on top of the tile instead of a black one.\n\n&4&lFound At:&r Yoshi's House\n&4&lIs Passable:&r &cfalse
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/yoshi_grass.png
 
 #footer
 title=Super Mario World

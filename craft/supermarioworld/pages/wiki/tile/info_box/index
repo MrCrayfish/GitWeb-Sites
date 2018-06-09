@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lInfo Box
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nThe info box is a very special tile. It has the capability to display guis when hit and plays a sound. Usually this block gives information or advice to the user when hit.\n\n&4&lFound At:&r Multiple Levels\n&4&lIs Passable:&r &cfalse&r\n&r&4&lProperties:&r Text&r&8(PropertyEnum<TextType>)&r\n&4&lOn Hit:&r Opens a Gui based on the &bText&r property
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/info_box.png
 
 #footer
 title=Super Mario World

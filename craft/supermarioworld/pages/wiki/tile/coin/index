@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lCoin
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nThe &eCoin&r is a very shiny, animated tile that the player can collect. The &ecoin&r can mainly be used to gain &2One-Ups&r from 100 &ecoins&r. &eCoins&r are displayed in the top right corner of the overlay gui.\n\n&4&lFound At:&r Multiple Levels\n&4&lIs Passable:&r &atrue&r\n&r&4&lOn Hit:&r The &eCoin&r counter increases by 1
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/coin.png
 
 #footer
 title=Super Mario World

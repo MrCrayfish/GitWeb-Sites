@@ -15,19 +15,11 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lEntity
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lAll Entities are listed below:\n\n&c&lMisc:&r\nPlayer - &bsupermarioworld.craft/pages/wiki/entity/player&r\nFruit - &bsupermarioworld.craft/pages/wiki/entity/fruit&r\n&c&lEnemies:&r\nBowser - &bNot yet available&r\nGaloomba - &bNot yet available&r\nKoopa - &bNot yet available&r\nRex - &bNot yet available&r\n&c&lItems:&r\nKoopa Shell - &bNot yet available&r\nP-Switch - &bNot yet available&r
 
 #footer
 title=Super Mario World

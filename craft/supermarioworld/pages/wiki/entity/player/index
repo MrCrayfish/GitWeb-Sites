@@ -15,19 +15,12 @@ item-icon-3=BOOK_OPEN
 
 #header
 scale=2
-text=&c&lWelcome
+text=&c&lPlayer
 align=center
 
 #paragraph
-text=The Super Mario World website is a site that talks about the Super Mario World Application designed by Ocelot5836.
-
-#header
-scale=1
-text=&c&lContent
-align=center
-
-#paragraph
-text=This site contains all the information that you would ever need in order to play the app. This page also contains a wiki about each object in the game.
+text=&4&lDescription:&r\nThe player is the main protagonist of the game. He is the only entity that is directly controlled by the user and represents the user. Most of the game entirely revolves around him and what he can see.\n\n&4&lSpeed:&r 0.9\n&4&lMax Speed:&r 4.8\n&4&lStop Speed:&r 1.2\n&4&lFall Speed:&r 0.45\n&4&lMax Fall:&r 4.0
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/supermarioworld/mario.png
 
 #footer
 title=Super Mario World

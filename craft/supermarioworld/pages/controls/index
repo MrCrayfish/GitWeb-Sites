@@ -32,15 +32,7 @@ text=&4Debug
 align=left
 
 #paragraph
-text=&cT&r - Reset Level
-
-#header
-scale=1
-text=&4Menu
-align=left
-
-#paragraph
-text=&cUP&r - Move selection up\n&cDOWN&r - Move selection down\n&cENTER&r - Select State
+text=&cT&r - Reset Level\n&cZ&r - Back to Menu
 
 #footer
 title=Super Mario World
