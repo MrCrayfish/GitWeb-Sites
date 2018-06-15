@@ -1,0 +1,30 @@
+#banner
+image=https://i.ytimg.com/vi/g0EaDsP6c14/maxresdefault.jpg
+text=&3&lWangerooge Craft
+
+#navigation
+item-link-1=wangerooge.craft/de_DE
+item-label-1=Startseite
+item-icon-1=HOME
+item-link-2=wangerooge.craft
+item-label-2=Sprache
+item-icon-2=EARTH
+item-link-3=wangerooge.craft/de_DE/info
+item-label-3=Informationen
+item-icon-3=INFO
+item-link-4=supermarioworld.craft/de_DE/downlaods
+item-label-4=Downloads
+item-icon-4=IMPORT
+
+#header
+scale=1
+text=&c&lWangerooge in Minecraft
+align=center
+
+#paragraph
+text=Wir bauen die deutsche Insel "Wangerooge" nach.\nDiese Internet Seite ist aktuell noch in arbeit!
+
+#footer
+title=Wangerooge Craft
+sub-title=Programmiert von CRUGG
+home-page=wangerooge.craft

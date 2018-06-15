@@ -1,0 +1,21 @@
+#banner
+image=https://i.ytimg.com/vi/g0EaDsP6c14/maxresdefault.jpg
+text=&3&lWangerooge Craft
+
+#header
+scale=2
+text=&c&lSprache
+align=center
+
+#header
+scale=1
+text=&c&lLanguage
+align=center
+
+#navigation
+item-link-1=wangerooge.craft/de_DE
+item-label-1=Deutsch
+item-icon-1=EARTH
+item-link-2=wangerooge.craft/en_US
+item-label-2=English
+item-icon-2=EARTH
