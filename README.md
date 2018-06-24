@@ -1,6 +1,10 @@
 # GitWeb-Sites
 This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with MrCrayfish's Device Mod.
 
+**Note**: There is a web-based client created by [Pugduddly](https://github.com/Pugduddly), but it is under development and is not 100% accurate with the Device Mod client.
+However, it could make it easier to develop your own indexes.
+If you want to try it, it is available at https://gitweb-js.glitch.me/.
+
 ## Rules of Index creation
 1. You are limited to the use of domain suffixes presented in the suffix section of this file.
 
