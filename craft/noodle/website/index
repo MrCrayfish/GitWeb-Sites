@@ -1,0 +1,74 @@
+
+#banner
+image=https://raw.githubusercontent.com/JacksonPlayz/JacksonsThings/master/gitweb/Banners/TheGreatWiki/TheGreatWikiBanner.png
+text=&9&lN&c&lo&e&lo&9&ld&2&ll&c&le
+
+
+#header
+text=&4&lW&c&le&6&ll&e&lc&a&lo&2&lm&9&le&1&l! &fNoodle Site &7v1.29 &f2018
+scale=1
+align=center
+
+
+#paragraph
+text=&b&lNoodle Websites
+
+#navigation
+item-link-1=noodle.craft
+item-label-1=&9N&co&eo&9d&2l&ce &bSearch
+item-icon-1=HOME
+
+#paragraph
+text=&4&lComing Soon Noodle Websites
+
+#navigation
+item-link-1=noodle.craft/videos
+item-label-1=&3Noodle &7Videos
+item-icon-1=VIDEO_CAMERA
+item-link-2=noodle.craft/sharein
+item-label-2=&2Noodle ShareIn
+item-icon-2=SHARE
+item-link-3=noodle.craft/gamestore
+item-label-3=&dNoodle Gamestore
+item-icon-3=GAME_CONTROLLER
+item-link-4=noodle.craft/maps
+item-label-4=&eNoodle Maps
+item-icon-4=MAP
+item-link-5=noodle.craft/streamer
+item-label-5=&aNoodle Streamer
+item-icon-5=WIFI_HIGH
+item-link-6=noodle.craft/debbuger
+item-label-6=&7Noodle Debugger
+item-icon-6=COMPUTER
+item-link-7=noodle.craft/store
+item-label-7=&9Noodle Store
+item-icon-7=SHOPPING_CART
+item-link-8=noodle.craft/flippin
+item-label-8=&5Noodle &6Music
+item-icon-8=HEADPHONES
+
+
+#paragraph
+text=&a&lAll Websites
+
+
+#navigation
+item-link-1=craysadventure.craft
+item-label-1=&cCray's Adventure
+item-icon-1=CHEESE
+item-link-2=supermarioworld.craft
+item-label-2=&6Super &5Mario &bWorld
+item-icon-2=GAME_CONTROLLER
+item-link-3=thegreatwiki.official
+item-label-3=&9&lThe Great Wiki &6Beta
+item-icon-3=BOOK_CLOSED
+item-link-4=welcome.official
+item-label-4=&bWelcome to GitWeb!
+item-icon-4=INFO
+item-link-5=thegreatwiki.official/pages/device-mod/apps/endermail
+item-label-5=&9&lThe Great Wiki &5Ender&7Mail
+item-icon-5=MAIL
+#footer
+title=&9N&co&eo&9d&2l&ce &fSearch
+sub-title=Produced by FiveMania5
+home-page=noodle.craft
