@@ -1,0 +1,52 @@
+#header
+text=&2Mine.craft
+scale=3
+
+#divider
+size=3
+color=-16744448
+
+#header
+text=&2Navigation
+scale=2
+padding=3
+align=left
+
+#navigation
+color=-16742912
+item-link-1=mine.craft
+item-label-1=Mine Corp Homepage
+item-icon-1=HOME
+item-link-2=mine.craft/agenda
+item-label-2=Mine Corp Hidden Agenda
+item-icon-2=INFO
+
+#divider
+size=3
+color=-16744448
+
+#header
+text=&aMine Corp Digital Products
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=Do you have Note Stash? Do you want to be officially cool? If you answered yes to both of these questions, then the Mine Corp Certificate of Coolness is for you! Download now, and share it with your friends!
+padding=1
+
+#download
+file-app=cdm.note_stash
+file-data={title:"Mine Corp Cert",content:"This certificate proves that Mine Corp owns this device.\\nHave a nice day."}
+file-name=Mine Corp Cert
+text=Certificate of Coolness
+
+#paragraph
+text=New products coming soon!
+padding=1
+
+#footer
+title=Mine Corp Website
+sub-title=Copyright Mine Corp 2018
+home-page=mine.craft
+color=-16744448

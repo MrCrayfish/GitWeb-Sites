@@ -1,0 +1,78 @@
+#header
+text=&2Mine.craft
+scale=3
+
+#divider
+size=3
+color=-16744448
+
+#header
+text=&2Navigation
+scale=2
+padding=3
+align=left
+
+#navigation
+color=-16742912
+item-link-1=mine.craft/agenda
+item-label-1=Mine Corp Hidden Agenda
+item-icon-1=INFO
+item-link-2=mine.craft/products
+item-label-2=Mine Corp Digital Products
+item-icon-2=SHOPPING_CART
+#divider
+size=3
+color=-16744448
+
+#header
+text=&2FAQ
+scale=2
+padding=3
+align=left
+
+#header
+text=&aWhy mine.craft?
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=Ever since the start, the great people (AKA Me) at Mine Corp have been very concerned with sniping the finest of names. When GitWeb came out, we had a mission: Get the coolest URL name. After a long and hard thinking process, we'd decided to attempt to get the URL "mine.craft" and well, if you're reading this, our mission was a success.
+padding=1
+
+#header
+text=&aWhat can we expect from this site?
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=Mine Corp works hard to make sure you have the very best user experience! You'll be able to see all sorts of things, such as the hidden adgenda we have here at MineCorp, as well as what we plan to do! For now though, the site isn't much other than a namesnipe, but watch out for our up and coming digital products!
+padding=1
+
+#header
+text=&aMine Corp? What's that?
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=Why, great question (ERR: TYPE: USER.NAME IS UNDEFINED)! Mine Corp is a brand new, wonderful company! We plan to take the world by storm with our great digital products (Coming soon!) and become a household name in every world, every server, every country! You may not know us now, but with our namesnipes and digital products (Coming soon!) Mine Corp will be everywhere!
+padding=1
+
+#header
+text=&aHow is your website so great?
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=Because we're Mine Corp! We Code Greatness™
+padding=1
+
+
+#footer
+title=Mine Corp Website
+sub-title=Copyright Mine Corp 2018
+home-page=mine.craft
+color=-16744448
