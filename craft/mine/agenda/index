@@ -1,0 +1,62 @@
+#header
+text=&2Mine.craft Hidden Agenda
+scale=2
+
+#divider
+size=3
+color=-16744448
+
+#header
+text=&2Navigation
+scale=2
+padding=3
+align=left
+
+
+#navigation
+color=-16742912
+item-link-1=mine.craft
+item-label-1=Mine Corp Homepage
+item-icon-1=HOME
+item-link-2=mine.craft/products
+item-label-2=Mine Corp Digital Products
+item-icon-2=SHOPPING_CART
+#divider
+size=3
+color=-16744448
+
+#divider
+size=3
+color=-16744448
+
+#header
+text=&aMine Corp Hidden Agenda
+scale=2
+padding=3
+align=left
+
+#paragraph
+text=#1 Take over all of Minecraft (Preferably own Mojang as well)
+padding=1
+
+#paragraph
+text=#2 Install Mind Control Software™ into majority of players
+padding=1
+
+#paragraph
+text=#3 Spend half of the company budget on cheese
+padding=1
+
+#paragraph
+text=#4 Buy ownership of every product, then overprice them all.
+padding=1
+
+#paragraph
+text=#5 Get more namesnipes.
+padding=1
+
+#footer
+title=Mine Corp Website
+sub-title=Copyright Mine Corp 2018
+home-page=mine.craft
+color=-16744448
