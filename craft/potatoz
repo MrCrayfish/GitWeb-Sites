@@ -1,0 +1,57 @@
+#banner
+
+image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZLqqHgEvBWMW7HWxb7RoLPuwbIiEOwsy9L_E5UZO7tpRkG_a
+
+text=Welcome to the &6Potatoz &fWebsite!
+
+
+
+#navigation
+
+item-link-1=potato.web
+
+item-label-1=HOME
+
+item-icon-1=HOME
+
+
+
+#paragraph
+
+text=&8Ima add the navigation up here once its up and running..
+
+
+
+#paragraph
+
+text=&6Potatoz &fis a website with so much in store! well soon anywayz... But &8&l VERY SOON &rI will add alot alot alot! I don't really know much else to add but until I can put this online I will keep on thinkin! I hope to make a &a&lGREAT &rContribution once I start adding websites! I really hope they add website uploading soon so that I don't lose this one...
+
+image=https://i.imgur.com/dpiq7RO.png
+
+
+
+#header
+
+text=&f&lWhats Coming?
+
+scale=2
+
+align=left
+
+padding=10
+
+
+
+#paragraph
+
+text=I plan to add the following (Recommendations for the &cDevice Mod&f, More &6Potatoz &fso we can live, more pages, downloadable files and products etc...)
+
+
+
+#footer
+
+title=Potatoz Website
+
+sub-title=Copyright (c) 2018-2019 Wyattagum/DocDogeWow
+
+home-page=potatoz.web
