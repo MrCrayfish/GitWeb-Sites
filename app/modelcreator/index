@@ -1,0 +1,35 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
+text=&c&lModel Creator
+
+#navigation
+item-link-1=modelcreator.app
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=modelcreator.app/pages
+item-label-2=Pages
+item-icon-2=BOOK_OPEN
+item-link-3=modelcreator.app/pages/wiki
+item-label-3=Wiki
+item-icon-3=EARTH
+
+#header
+scale=2
+text=&c&lWelcome
+align=center
+
+#paragraph
+text=The Model Creator is an application that allows you to create models inside of Minecraft designed by Ocelot5836.
+
+#header
+scale=2
+text=&c&lGetting Started
+align=center
+
+#paragraph
+text=You can get started by heading over to &bmodelcreator.app/pages/wiki&r to get some information on how to use the model creator. You can also go to &bmodelcreator.app/pages/models&r to check out some models that were created by me and other users. There are also pixel painter textures that can be checked out at &bmodelcreator.app/pages/textures&r.
+
+#footer
+title=Model Creator
+sub-title=Developed by Ocelot5836
+home-page=modelcreator.app

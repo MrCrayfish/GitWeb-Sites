@@ -1,0 +1,27 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
+text=&c&lModel Creator
+
+#navigation
+item-link-1=modelcreator.app
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=modelcreator.app/pages
+item-label-2=Pages
+item-icon-2=BOOK_OPEN
+item-link-3=modelcreator.app/pages/wiki
+item-label-3=Wiki
+item-icon-3=EARTH
+
+#header
+scale=2
+text=&c&lPages
+align=center
+
+#paragraph
+text=This site contains the links the pages that are connected to this website.\n\n&4&lModels:&r &bmodelcreator.app/pages/models&r\n&4&lTextures:&r &bmodelcreator.app/pages/textures&r\n&4&lWiki:&r &bmodelcreator.app/pages/wiki&r
+
+#footer
+title=Model Creator
+sub-title=Developed by Ocelot5836
+home-page=modelcreator.app

@@ -1,0 +1,49 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
+text=&c&lModel Creator
+
+#navigation
+item-link-1=modelcreator.app
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=modelcreator.app/pages
+item-label-2=Pages
+item-icon-2=BOOK_OPEN
+item-link-3=modelcreator.app/pages/wiki
+item-label-3=Wiki
+item-icon-3=EARTH
+
+#header
+scale=2
+text=&c&lModels
+align=center
+
+#paragraph
+text=This page contains &7*simple and bad*&r models created by myself as well as models created by users.
+
+#header
+scale=2
+text=&c&lCreated by Ocelot5836
+
+#download
+file-app=mca.mc
+file-data={ambientOcclusion:1b,textures:[{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"}],cubes:[{east:{cullFace:1b,facingDirection:5,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b},size:{x:16.0f,y:16.0f,z:16.0f},rotationPoint:{x:8.0f,y:8.0f,z:8.0f},south:{cullFace:1b,facingDirection:3,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b},rotation:{x:0.0f,y:0.0f,z:0.0f},north:{cullFace:1b,facingDirection:2,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b},west:{cullFace:1b,facingDirection:4,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b},name:"Cube",shade:1b,position:{x:0.0f,y:0.0f,z:0.0f},up:{cullFace:1b,facingDirection:1,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b},down:{cullFace:1b,facingDirection:0,texture:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},rotation:0.0f,fill:0b,autoUV:1b,textureCoords:{w:16.0f,x:0.0f,y:0.0f,z:16.0f},enabled:1b}}],particle:{image:{pixels:"0:0_0,fffefefe:0_3,0:3_4,fffefefe:4_f,ffc0f5fe:f_10,fffefefe:10_11,ffffff:11_1f,ffb3d6db:1f_20,fffefefe:20_21,ffffff:21_2f,0:2f_30,fffefefe:30_31,ffffff:31_3f,ffb3d6db:3f_40,fffefefe:40_41,ffffff:41_4f,ffb3d6db:4f_50,fffefefe:50_51,ffffff:51_5f,0:5f_61,ffffff:61_6f,ffb3d6db:6f_70,fffefefe:70_71,ffffff:71_7f,ffb3d6db:7f_80,fffefefe:80_81,ffffff:81_8f,ffb3d6db:8f_90,fffefefe:90_91,ffffff:91_9f,0:9f_a1,ffffff:a1_af,0:af_b0,fffefefe:b0_b1,ffffff:b1_bf,ffb3d6db:bf_c0,0:c0_c1,ffffff:c1_cf,ffb3d6db:cf_d0,ffc0f5fe:d0_d1,ffffff:d1_df,ffb3d6db:df_e0,fffefefe:e0_e1,ffffff:e1_ef,ffc0f5fe:ef_f1,ffb3d6db:f1_f6,0:f6_f8,ffb3d6db:f8_fa,0:fa_fb,ffb3d6db:fb_ff,ffc0f5fe:ff_100",width:16,type:6,height:16},location:"printer3d:textures/blocks/glass_clear.png"},version:"1.0"}file-name=glassClear
+text=Clear Glass
+
+#divider
+size=12
+
+#header
+scale=2
+text=&c&lCreated by Others
+
+#paragraph
+text=There don't appear to be any models submitted by users yet );
+
+#divider
+size=12
+
+#footer
+title=Model Creator
+sub-title=Developed by Ocelot5836
+home-page=modelcreator.app

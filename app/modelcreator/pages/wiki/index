@@ -1,0 +1,30 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
+text=&c&lModel Creator
+
+#navigation
+item-link-1=modelcreator.app
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=modelcreator.app/pages
+item-label-2=Pages
+item-icon-2=BOOK_OPEN
+item-link-3=modelcreator.app/pages/wiki
+item-label-3=Wiki
+item-icon-3=EARTH
+
+#header
+scale=2
+text=&c&lWiki
+align=center
+
+#paragraph
+text=Welcome to the Model Creator Wiki! Here you can find help on how the model creator works, the functions inside the model creator, and how to contribute to the development of the model creator.
+
+#paragraph
+text=&4&lWiki Coming Soon!&r
+
+#footer
+title=Model Creator
+sub-title=Developed by Ocelot5836
+home-page=modelcreator.app
