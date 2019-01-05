@@ -1,0 +1,21 @@
+#banner
+image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/images/banner_basic_yellow.png
+text=MineNews
+
+#navigation
+color=-15198184
+item-link-1=minenews.web
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=minenews.web/news
+item-label-2=News
+item-icon-2=COPY
+
+
+#paragraph
+text=Welcome to MineNews. Here you can find Minecraft news! Just click News above here to see the latest news!
+#footer
+title=MineNews
+sub-title=Minecraft News
+home-page=minenews.web
+color=-15204340

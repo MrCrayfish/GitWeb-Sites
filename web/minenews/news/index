@@ -1,0 +1,29 @@
+#banner
+image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/images/banner_basic_yellow.png
+text=MineNews
+
+#navigation
+color=-15198184
+item-link-1=minenews.web
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=minenews.web/news
+item-label-2=News
+item-icon-2=COPY
+
+#header
+text=12-24-18
+
+
+#paragraph
+text=Snapshot 18w50a brings 1.14 features like the new villages, new blocks like the bell, and new mobs like the pillager. There are also pandas and bamboo. You can use the bamboo to feed pandas or to craft scaffolding. You can use scaffolding to build buildings or as ladders. It is useful because if you break the bottom block it all falls. You can view everything at https://minecraft.net/en-us/article/minecraft-snapshot-18w50a.
+#download
+file-app=cdm.note_stash
+file-data={title:"12-24-18",content:"Snapshot 18w50a brings 1.14 features like the new villages, new blocks like the bell, and new mobs like the pillager. There are also pandas and bamboo. You can use the bamboo to feed pandas or to craft scaffolding. You can use scaffolding to build building or as ladders. It is useful because if you break the bottom block it all falls. You can view everything at https://minecraft.net/en-us/article/minecraft-snapshot-18w50a"}
+file-name=12-24-18
+text=Download The Article
+#footer
+title=MineNews
+sub-title=Minecraft News
+home-page=minenews.web
+color=-15204340
