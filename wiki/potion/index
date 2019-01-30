@@ -1,0 +1,27 @@
+#banner
+image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/potion.wiki/main-banner.png
+text=PotionWiki
+
+
+#navigation
+color=-1
+item-link-1=potion.wiki
+item-label-1=Home
+item-icon-1=HOME
+
+item-link-2=potion.wiki/about
+item-label-2=About
+item-icon-2=INFO
+
+
+
+#header
+text=&lWelcome
+
+#paragraph
+text=Welcome to potion wiki. On this site you can find how to make a certain potion.
+
+#footer
+title=PotionWiki
+sub-title=Developed by JurijTSL from Triocoder
+home-page=potion.wiki
