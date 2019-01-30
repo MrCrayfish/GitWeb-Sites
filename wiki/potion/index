@@ -1,0 +1,42 @@
+#banner
+image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/potion.wiki/main-banner.png
+text=PotionWiki
+
+
+#navigation
+color=-1
+item-link-1=potion.wiki
+item-label-1=Home
+item-icon-1=HOME
+
+item-link-2=potion.wiki/potions
+item-label-2=Potions
+
+
+item-link-3=potion.wiki/about
+item-label-3=About
+item-icon-3=INFO
+
+
+#header
+text=Welcome
+scale=2
+
+#paragraph
+text=Welcome to PotionWiki. On this site you can find how to make a certain potion.
+
+
+
+#header
+text=How to use PotionWiki
+scale=2
+
+
+#paragraph
+text=Click on Potions in navigation. Select between given options. Click on potion and get recipe.
+
+
+#footer
+title=PotionWiki
+sub-title=Developed by JurijTSL from Triocoder
+home-page=potion.wiki
