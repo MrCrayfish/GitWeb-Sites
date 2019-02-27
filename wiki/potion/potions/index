@@ -1,0 +1,43 @@
+#banner
+image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/wiki/potion/images/main-banner.png
+text=PotionWiki
+
+
+#navigation
+color=-1
+item-link-1=potion.wiki
+item-label-1=Home
+item-icon-1=HOME
+
+item-link-2=potion.wiki/potions
+item-label-2=Potions
+
+item-link-3=potion.wiki/about
+item-label-3=About
+item-icon-3=INFO
+
+
+#header
+text=Potions
+scale=2
+
+
+#header
+text=Awkward potion
+align=left
+#paragraph
+text=You must make this potion so you'll be able to brew other potions. \n&bpotion.wiki/potions/awkward&r
+image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/wiki/potion/images/awkward%20potion.png
+
+#header
+text=Night vision
+align=left
+#paragraph
+text=With that potion you will be able to see at night. \n&bpotion.wiki/potions/night_vision&r
+image=https://raw.githubusercontent.com/jurijtsl/JurijTSL-GitWeb/master/wiki/potion/images/night_vision.png
+
+
+#footer
+title=PotionWiki
+sub-title=Developed by JurijTSL from Triocoder
+home-page=potion.wiki
