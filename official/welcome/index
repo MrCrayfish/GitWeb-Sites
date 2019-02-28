@@ -1,6 +1,6 @@
 #banner
-image=https://i.imgur.com/rIzqukr.png
-text=&f&lWelcome to GitWeb
+image=https://i.imgur.com/tC7ZKpE.png
+text=&f&lOfficial Index
 
 #navigation
 item-link-1=welcome.official
@@ -17,29 +17,18 @@ item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=&e&lGitWeb&r is a working web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.\n\nIf you would like to add your own site to GitWeb, visit &esubmit.official&r to get start!
-image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
+text=Welcome to the &e&lOfficial Index&r. Here you will find a list of all the websites currently available on GitWeb. This list is manually generated so new websites may not show up straight away.
 padding=10
 
 #header
-text=&f&lGetting Started
+text=&f&lAvailable Websites
 scale=2
 align=left
 padding=10
 
 #paragraph
-text=Just like a normal web browser, you can enter the address of the website above. Now don't get too ahead of yourself, you can't enter real websites. Instead you have to enter the address of a GitWeb site. You can find a list of all the websites available at &eindex.official
 padding=10
-
-#header
-text=&f&lCredits
-scale=2
-align=left
-padding=10
-
-#paragraph
-text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
-padding=10
+text=&emodelcreator.app\n&ecraysadventure.craft\n&esupermarioworld.craft\n&ethegreatwiki.official\n&ewelcome.official\n&eminenews.web\n&epotion.wiki
 
 #footer
 title=GitWeb
