@@ -1,0 +1,31 @@
+
+#banner
+image=https://i.imgur.com/QAA3uc7.png
+
+
+#navigation
+color=-16759809
+
+item-link-1=craftnews.web
+item-label-1=Home
+item-icon-1=HOME
+
+item-link-2=craftnews.web/news
+item-label-2=News
+item-icon-2=CLIPBOARD
+
+item-link-3=craftnews.web/about
+item-label-3=About
+item-icon-3=USER
+
+
+#paragraph
+text=English\nWelcome into craftnews. This website is created for Polish modpack called Miasto\n\nPolski\nWitaj w CraftNews. Znajdziesz tu wiadomosci z kazdego miejsca w miescie.
+padding=5
+
+
+#footer
+title=CraftNews
+sub-title=Copyright (c) CraftNews and Zdigus 2019-2020
+home-page=craftnews.web
+color=-13949697

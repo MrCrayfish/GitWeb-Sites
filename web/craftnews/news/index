@@ -1,0 +1,52 @@
+
+#banner
+image=https://i.imgur.com/QAA3uc7.png
+
+
+#navigation
+color=-16759809
+
+item-link-1=craftnews.web
+item-label-1=Home
+item-icon-1=HOME
+
+item-link-2=craftnews.web/news
+item-label-2=News
+item-icon-2=CLIPBOARD
+
+item-link-3=craftnews.web/about
+item-label-3=About
+item-icon-3=USER
+
+
+#paragraph
+text=This is list of news in CraftTown\nTo jest lista wiadomosci z CraftTown
+padding=5
+
+
+#divider
+size=5
+
+#paragraph
+text=&9&lBob Workshop &r- craftnews.web/news/bobworkshop
+padding=5
+
+#divider
+size=5
+
+#paragraph
+text=&4&lMineGas &r- craftnews.web/news/minegas
+padding=5
+
+#divider
+size=5
+
+#paragraph
+text=&c&lCraftTown &r- craftnews.web/news/crafttown
+padding=5
+
+#footer
+title=CraftNews
+sub-title=Copyright (c) CraftNews and Zdigus 2019-2020
+home-page=craftnews.web
+color=-13949697
