@@ -1,0 +1,20 @@
+
+#banner
+image=https://i.imgur.com/3YEMQY6.jpg
+text=&a&lStock &lMarket
+
+
+#header
+text=&6&lALERT: COVID-19 IS AFFECTING THE GLOBAL MARKET
+scale=1
+padding=7
+
+#paragraph
+text=&f&lDow Jones Industrial Average   &7&l20,704.91 &a&l▲  2,113 11.37%\n&f&lSP 500                                &7&l2,447.33 &a&l▲  209.93 9.38%\n&f&lApple Inc                               &7&l246.88 &a&l▲  22.51 10.03%\n&f&lThe Boeing Company                   &7&l127.68 &a&l▲  22.06 20.89%\n&f&lBerkshire Hathaway Inc              &7&l178.20 &a&l▲  16.07 9.91%\n&f&lProShares UltraPro Short QQQ       &7&l22.84 &c&l▼ -6.64 -22.52%
+
+
+#footer
+title=&lMinecraft &lStock &lExchange &l©
+sub-title=LukaPlayz
+home-page=welcome.official
+color=-13158601
