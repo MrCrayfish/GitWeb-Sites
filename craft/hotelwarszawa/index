@@ -1,0 +1,83 @@
+#banner
+
+image=https://i.imgur.com/rIzqukr.png
+
+text=&a&lWitaj w &nHOTELU WARSZAWA!
+
+
+
+
+
+#navigation
+
+item-link-1=welcome.official
+
+item-label-1=Strona Startowa
+
+item-icon-1=HOME
+
+item-link-2=welcome.official/about
+
+item-label-2=O nas
+
+item-icon-2=COMMUNITY
+
+
+
+#header
+
+scale=2
+
+text=&c&l&nWitamy!
+
+align=center
+
+
+
+#paragraph
+
+text=&kH &r&9Witamy na stronie HOTELU WARSZAWA tutaj mozesz sprawdzic regulamin naszego hotelu &f&kH
+
+
+
+#header
+
+scale=1
+
+text=&c&lZaczynajmy
+
+
+
+#paragraph
+
+text=&3Nasz regulamin to:
+1.Nie kradniemy
+2.Nie otwieramy klatki obczym ludziom
+3.Nie wymieniamy sie kluzczami
+4.Jestesmy mili dla innych sasiadow
+5.Jezeli mamy jakis problem to idziemy do recepcji na dole
+&4&nNiezapoznanie sie z regulaminem nie zwalnia z przestrzegania go!
+
+
+
+#header
+
+scale=1
+
+text=&c&lZapraszamy!!!
+
+
+
+#paragraph
+
+text=Dziekujemy ze weszles na ta strone internetowa 
+
+
+
+#footer
+
+title=&eHOTEL WARSZAWA
+
+sub-title=&dCopyright 2020-2031 HOTEL WARSZAWA
+
+home-page=welcome.official
